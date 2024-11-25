@@ -14,16 +14,13 @@
         {
           "id": 2001,
           "color": "green",
-          "image": "assets/images/socks_green.jpg",
+          "image": "https://www.tiemart.com/cdn/shop/products/mens-kelly-green-socks_1001x.jpg?v=1580853287",
           "quantity": 50
         },
         {
           "id": 2002,
           "color": "dark green",
-          "image": "assets/images/socks_dark_green.jpg",
-          "quantity": 0
-        }
-      ]
+          "image": "https://www.charixshoes.com/cdn/shop/products/Green-1_1800x.jpg?v=1674053683",
     },
     {
       "id": 2,
@@ -39,13 +36,13 @@
         {
           "id": 2003,
           "color": "blue",
-          "image": "assets/images/socks_blue.jpg",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEBErhliyp7LuiQACx-frm0iqzkLuI24zAOQ&s",
           "quantity": 20
         },
         {
           "id": 2004,
           "color": "dark blue",
-          "image": "assets/images/socks_dark_blue.jpg",
+          "image": "https://sockpanda.com/cdn/shop/products/28Navy__38014.jpg?v=1667861542",
           "quantity": 0
         }
       ]
