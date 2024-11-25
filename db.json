@@ -19,8 +19,8 @@
         },
         {
           "id": 2002,
-          "color": "blue",
-          "image": "assets/images/socks_blue.jpg",
+          "color": "dark green",
+          "image": "assets/images/socks_dark_green.jpg",
           "quantity": 0
         }
       ]
