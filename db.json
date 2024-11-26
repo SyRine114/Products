@@ -53,6 +53,13 @@
           "price": 13.00
         }
       ]
+    },
+    {
+      "id": 0,
+      "brand": "Out of Stock",
+      "image": "https://cdn2.vectorstock.com/i/1000x1000/41/56/out-of-stock-rubber-stamp-vector-14724156.jpg",
+      "inventory": 0,
+      "variants": []
     }
   ]
 }
